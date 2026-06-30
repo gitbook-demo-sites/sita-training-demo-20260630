@@ -28,11 +28,11 @@ GitBook is positioned here as the layer before e-learning. Oracle LMS remains th
 ## Product catalogue
 
 <table data-view="cards"><thead><tr><th width="48"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><i class="fa-door-open"></i></td><td><strong>Meridian Gate</strong></td><td>Passenger-flow gate for check-in, security and boarding.</td><td><a href="https://app.gitbook.com/s/XSPACE_MERIDIAN/">Meridian Gate</a></td></tr>
-<tr><td><i class="fa-suitcase-rolling"></i></td><td><strong>Atlas Self Bag Drop</strong></td><td>Self-service bag drop for fast, staff-light check-in.</td><td><a href="https://app.gitbook.com/s/XSPACE_ATLAS/">Atlas Self Bag Drop</a></td></tr>
-<tr><td><i class="fa-tablet-screen-button"></i></td><td><strong>Orbit Check-in Kiosk</strong></td><td>Self-service kiosk for check-in and document capture.</td><td><a href="https://app.gitbook.com/s/XSPACE_ORBIT/">Orbit Check-in Kiosk</a></td></tr>
-<tr><td><i class="fa-display"></i></td><td><strong>Vista Flight Display</strong></td><td>Dynamic flight information and wayfinding displays.</td><td><a href="https://app.gitbook.com/s/XSPACE_VISTA/">Vista Flight Display</a></td></tr>
-<tr><td><i class="fa-id-card"></i></td><td><strong>Sentry Access Control</strong></td><td>Credential and biometric access control for airside thresholds.</td><td><a href="https://app.gitbook.com/s/XSPACE_SENTRY/">Sentry Access Control</a></td></tr>
+<tr><td><i class="fa-door-open"></i></td><td><strong>Meridian Gate</strong></td><td>Passenger-flow gate for check-in, security and boarding.</td><td><a href="https://app.gitbook.com/s/BfHiHXMzrWen5qpnab9v/">Meridian Gate</a></td></tr>
+<tr><td><i class="fa-suitcase-rolling"></i></td><td><strong>Atlas Self Bag Drop</strong></td><td>Self-service bag drop for fast, staff-light check-in.</td><td><a href="https://app.gitbook.com/s/7O8zHs6XphY9ZCKVQhHh/">Atlas Self Bag Drop</a></td></tr>
+<tr><td><i class="fa-tablet-screen-button"></i></td><td><strong>Orbit Check-in Kiosk</strong></td><td>Self-service kiosk for check-in and document capture.</td><td><a href="https://app.gitbook.com/s/Krg2ejKl1dkZYrNC7qx6/">Orbit Check-in Kiosk</a></td></tr>
+<tr><td><i class="fa-display"></i></td><td><strong>Vista Flight Display</strong></td><td>Dynamic flight information and wayfinding displays.</td><td><a href="https://app.gitbook.com/s/hKBbm8GzWY5K3m4BSM4S/">Vista Flight Display</a></td></tr>
+<tr><td><i class="fa-id-card"></i></td><td><strong>Sentry Access Control</strong></td><td>Credential and biometric access control for airside thresholds.</td><td><a href="https://app.gitbook.com/s/TFqj2TP6FdNaFGDyZD3P/">Sentry Access Control</a></td></tr>
 </tbody></table>
 
 ## Demo paths

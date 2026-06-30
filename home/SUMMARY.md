@@ -9,8 +9,8 @@
 
 ## Demo product hubs
 
-* [Meridian Gate](https://app.gitbook.com/s/XSPACE_MERIDIAN/)
-* [Atlas Self Bag Drop](https://app.gitbook.com/s/XSPACE_ATLAS/)
-* [Orbit Check-in Kiosk](https://app.gitbook.com/s/XSPACE_ORBIT/)
-* [Vista Flight Display](https://app.gitbook.com/s/XSPACE_VISTA/)
-* [Sentry Access Control](https://app.gitbook.com/s/XSPACE_SENTRY/)
+* [Meridian Gate](https://app.gitbook.com/s/BfHiHXMzrWen5qpnab9v/)
+* [Atlas Self Bag Drop](https://app.gitbook.com/s/7O8zHs6XphY9ZCKVQhHh/)
+* [Orbit Check-in Kiosk](https://app.gitbook.com/s/Krg2ejKl1dkZYrNC7qx6/)
+* [Vista Flight Display](https://app.gitbook.com/s/hKBbm8GzWY5K3m4BSM4S/)
+* [Sentry Access Control](https://app.gitbook.com/s/TFqj2TP6FdNaFGDyZD3P/)
