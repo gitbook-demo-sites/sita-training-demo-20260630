@@ -2,37 +2,31 @@
   "HOME": {
     "status": 204,
     "space": "cKBv1Rr2eXA7veDtvAy5",
-    "folder": "home",
-    "result": null
+    "folder": "home"
   },
   "MERIDIAN": {
     "status": 204,
     "space": "BfHiHXMzrWen5qpnab9v",
-    "folder": "meridian-gate",
-    "result": null
+    "folder": "meridian-gate"
   },
   "ATLAS": {
     "status": 204,
     "space": "7O8zHs6XphY9ZCKVQhHh",
-    "folder": "atlas-bag-drop",
-    "result": null
+    "folder": "atlas-bag-drop"
   },
   "ORBIT": {
     "status": 204,
     "space": "Krg2ejKl1dkZYrNC7qx6",
-    "folder": "orbit-kiosk",
-    "result": null
+    "folder": "orbit-kiosk"
   },
   "VISTA": {
     "status": 204,
     "space": "hKBbm8GzWY5K3m4BSM4S",
-    "folder": "vista-flight-display",
-    "result": null
+    "folder": "vista-flight-display"
   },
   "SENTRY": {
     "status": 204,
     "space": "TFqj2TP6FdNaFGDyZD3P",
-    "folder": "sentry-access-control",
-    "result": null
+    "folder": "sentry-access-control"
   }
 }
