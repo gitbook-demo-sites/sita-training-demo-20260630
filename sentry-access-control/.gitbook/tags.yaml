@@ -1,0 +1,12 @@
+- tag: product
+  label: Product
+  icon: box-open
+- tag: training
+  label: Training
+  icon: graduation-cap
+- tag: release
+  label: Release
+  icon: bell
+- tag: review
+  label: Review
+  icon: comments
