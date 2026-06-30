@@ -1,0 +1,195 @@
+{
+  "status": 200,
+  "result": {
+    "updatedAt": "2026-06-30T20:24:57.000Z",
+    "title": "SITA Training and Knowledge Hub",
+    "localizedTitle": {},
+    "internationalization": {
+      "locale": "en"
+    },
+    "styling": {
+      "theme": "clean",
+      "primaryColor": {
+        "dark": "#F2A900",
+        "light": "#F2A900"
+      },
+      "infoColor": {
+        "dark": "#7DB7E8",
+        "light": "#1F4E79"
+      },
+      "successColor": {
+        "dark": "#37C977",
+        "light": "#1F7A4D"
+      },
+      "warningColor": {
+        "dark": "#F2A900",
+        "light": "#F2A900"
+      },
+      "dangerColor": {
+        "dark": "#FF7A70",
+        "light": "#C0362C"
+      },
+      "tint": {
+        "color": {
+          "dark": "#0E1B2C",
+          "light": "#F6F8FA"
+        }
+      },
+      "corners": "rounded",
+      "depth": "flat",
+      "links": "accent",
+      "font": "Inter",
+      "monospaceFont": "IBMPlexMono",
+      "icons": "duotone",
+      "background": "plain",
+      "sidebar": {
+        "background": "filled",
+        "list": "line"
+      },
+      "codeTheme": {
+        "default": {
+          "light": "default-light",
+          "dark": "default-dark"
+        },
+        "openapi": {
+          "light": "default-light",
+          "dark": "default-dark"
+        }
+      },
+      "search": "prominent"
+    },
+    "favicon": {
+      "emoji": "1f6eb"
+    },
+    "header": {
+      "preset": "default",
+      "links": [
+        {
+          "to": {
+            "url": "https://www.sita.aero/",
+            "kind": "url"
+          },
+          "links": [],
+          "style": "link",
+          "title": "SITA website",
+          "localizedTitle": {}
+        },
+        {
+          "to": {
+            "url": "https://sites.gitbook.com/preview/site_02X65/?visitor.unsigned.persona=partner",
+            "kind": "url"
+          },
+          "links": [],
+          "style": "button-secondary",
+          "title": "Partner view",
+          "condition": "visitor.claims.unsigned.persona !== \"partner\"",
+          "localizedTitle": {}
+        },
+        {
+          "to": {
+            "url": "https://sites.gitbook.com/preview/site_02X65/?visitor.unsigned.persona=internal",
+            "kind": "url"
+          },
+          "links": [],
+          "style": "button-primary",
+          "title": "Internal view",
+          "condition": "visitor.claims.unsigned.persona !== \"internal\"",
+          "localizedTitle": {}
+        }
+      ]
+    },
+    "footer": {
+      "groups": [
+        {
+          "links": [
+            {
+              "to": {
+                "kind": "space",
+                "space": "cKBv1Rr2eXA7veDtvAy5"
+              },
+              "title": "Search and AI",
+              "localizedTitle": {}
+            },
+            {
+              "to": {
+                "kind": "space",
+                "space": "BfHiHXMzrWen5qpnab9v"
+              },
+              "title": "Product updates",
+              "localizedTitle": {}
+            }
+          ],
+          "title": "Demo paths",
+          "localizedTitle": {}
+        },
+        {
+          "links": [
+            {
+              "to": {
+                "url": "https://www.sita.aero/",
+                "kind": "url"
+              },
+              "title": "SITA website",
+              "localizedTitle": {}
+            },
+            {
+              "to": {
+                "url": "https://github.com/gitbook-demo-sites/sita-training-demo-20260630",
+                "kind": "url"
+              },
+              "title": "Source repo",
+              "localizedTitle": {}
+            }
+          ],
+          "title": "Sources",
+          "localizedTitle": {}
+        }
+      ],
+      "copyright": "SITA Training and Knowledge Hub demo - built for review in GitBook."
+    },
+    "themes": {
+      "default": "system",
+      "toggeable": true
+    },
+    "trademark": {
+      "enabled": true
+    },
+    "feedback": {
+      "enabled": true
+    },
+    "ai": {
+      "mode": "assistant",
+      "suggestions": [
+        "What is the weight of Meridian Gate?",
+        "Which pages are partner-safe?",
+        "Where are product updates?",
+        "How do reviewers give feedback?",
+        "Which LMS course comes next?"
+      ]
+    },
+    "advancedCustomization": {
+      "enabled": true
+    },
+    "pageActions": {
+      "items": [
+        "assistant",
+        "markdown",
+        "external-ai",
+        "mcp",
+        "pdf"
+      ]
+    },
+    "pagination": {
+      "enabled": true
+    },
+    "privacyPolicy": {},
+    "socialPreview": {},
+    "socialAccounts": [],
+    "externalLinks": {
+      "target": "self"
+    },
+    "insights": {
+      "trackingCookie": true
+    }
+  }
+}

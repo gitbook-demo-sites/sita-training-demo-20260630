@@ -1,0 +1,29 @@
+{
+  "status": 200,
+  "result": {
+    "object": "site-adaptive-schema",
+    "jsonSchema": {
+      "type": "object",
+      "properties": {
+        "unsigned": {
+          "type": "object",
+          "description": "Unsigned claims of the site visitor.",
+          "properties": {
+            "persona": {
+              "type": "string",
+              "enum": [
+                "public",
+                "internal",
+                "partner"
+              ],
+              "description": "Which audience persona the visitor is viewing the site as."
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "updatedAt": "2026-06-30T20:24:59.000Z"
+  }
+}
