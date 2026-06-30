@@ -1,8 +1,13 @@
 ---
 description: "Product training and knowledge-base demo for SITA."
 icon: house
+cover: "https://www.sita.aero/globalassets/banners/hp-digital-travel.webp?width=1900&height=700&quality=80"
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -15,9 +20,11 @@ layout:
     visible: true
 ---
 
-# SITA Product Hub
+# SITA Product Training Hub
 
-A fast-access knowledge layer for product training, solution design, sales enablement and product updates.
+Easy and safe training knowledge, every step of the way.
+
+This demo uses SITA's public brand direction: clean white space, dark charcoal text, soft blue surfaces, yellow highlights and aviation imagery. It frames GitBook as the quick-access layer for product knowledge before deeper SCORM-based e-learning.
 
 The discovery call pain is not lack of content. Content is spread across PDFs, PPTs, SharePoint, technical writer docs and Oracle LMS, so readers cannot tell which source is current or where to find a single fact.
 
@@ -26,6 +33,8 @@ GitBook is positioned here as the layer before e-learning. Oracle LMS remains th
 {% endhint %}
 
 ## Product catalogue
+
+Pick a product to see how SITA instructional designers could group overview material, sales context, solution-design notes, PM checklists, source docs, updates, training sessions and stakeholder review workflows in one branded hub.
 
 <table data-view="cards"><thead><tr><th width="48"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
 <tr><td><i class="fa-door-open"></i></td><td><strong>Meridian Gate</strong></td><td>Passenger-flow gate for check-in, security and boarding.</td><td><a href="https://app.gitbook.com/s/BfHiHXMzrWen5qpnab9v/">Meridian Gate</a></td></tr>

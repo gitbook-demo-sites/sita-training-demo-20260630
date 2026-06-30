@@ -1,8 +1,13 @@
 ---
 description: "Meridian Gate product training hub."
 icon: door-open
+cover: "https://www.sita.aero/siteassets/self-bag-drop-banner-top.jpg?width=1905&height=780&quality=80"
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,7 +24,7 @@ layout:
 
 Passenger-flow gate for check-in, security and boarding.
 
-This product hub is a sample training and knowledge-base page. It shows how a product owner can group overview, sales, solution design, PM, delivery, support, source docs, updates and training schedule in one place.
+This product hub is a sample training and knowledge-base section. It shows how a SITA product owner can group overview, sales, solution design, PM, delivery, support, source docs, updates and training schedule in one branded place.
 
 <table data-view="cards"><thead><tr><th width="48"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
 <tr><td><i class="fa-circle-info"></i></td><td><strong>Overview</strong></td><td>Plain-language summary and quick facts.</td><td><a href="overview.md">Overview</a></td></tr>

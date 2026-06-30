@@ -1,8 +1,13 @@
 ---
 description: "Atlas Self Bag Drop product training hub."
 icon: suitcase-rolling
+cover: "https://www.sita.aero/contentassets/b96f2b192b1e4083892baf97e3db0f99/making-hassle-free-bag-drop-the-industry-standard-image1.webp"
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,7 +24,7 @@ layout:
 
 Self-service bag drop for fast, staff-light check-in.
 
-This product hub is a sample training and knowledge-base page. It shows how a product owner can group overview, sales, solution design, PM, delivery, support, source docs, updates and training schedule in one place.
+This product hub is a sample training and knowledge-base section. It shows how a SITA product owner can group overview, sales, solution design, PM, delivery, support, source docs, updates and training schedule in one branded place.
 
 <table data-view="cards"><thead><tr><th width="48"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
 <tr><td><i class="fa-circle-info"></i></td><td><strong>Overview</strong></td><td>Plain-language summary and quick facts.</td><td><a href="overview.md">Overview</a></td></tr>
